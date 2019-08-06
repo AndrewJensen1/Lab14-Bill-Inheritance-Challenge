@@ -1,0 +1,11 @@
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\bin\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.deps.json
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\bin\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.runtimeconfig.json
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\bin\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.runtimeconfig.dev.json
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\bin\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.dll
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\bin\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.pdb
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\obj\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.csprojAssemblyReference.cache
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\obj\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\obj\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.AssemblyInfoInputs.cache
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\obj\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.AssemblyInfo.cs
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\obj\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.dll
+C:\Users\Jense\source\repos\Lab14 Bill Inheritance Challenge\Lab14 Bill Inheritance Challenge\obj\Debug\netcoreapp2.2\Lab14 Bill Inheritance Challenge.pdb
